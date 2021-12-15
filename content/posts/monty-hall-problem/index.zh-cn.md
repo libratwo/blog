@@ -27,12 +27,16 @@ lightgallery: false
 license: ""
 ---
 
-电影**决胜21点** 里面提到了三门概率问题，改变选择是否确实提高了选到车的几率呢？
+电影[**决胜21点**](https://baike.baidu.com/item/%E5%86%B3%E8%83%9C21%E7%82%B9/1052188?fr=aladdin "21-The Movie")里面提到了三门概率问题，改变选择是否确实提高了选到车的几率呢？
 
 这里不详述理论方面，网上已经有非常好的解释了。此处用shell方式实验验证这个结论！
 
 <!--more-->
 
+## 问题预览
+
+[**决胜21点**](https://baike.baidu.com/item/%E5%86%B3%E8%83%9C21%E7%82%B9/1052188?fr=aladdin "21-The Movie")课堂片段
+{{< bilibili id=BV1fa4y1e7j9 >}}
 ## 问题描述
 
 三门问题（Monty Hall problem）亦称为蒙提霍尔问题、蒙特霍问题或蒙提霍尔悖论，大致出自美国的电视游戏节目 Let's Make a Deal。
