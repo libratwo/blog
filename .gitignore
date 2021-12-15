@@ -2,5 +2,6 @@
 resources/
 deploy.sh
 themes/
+content/exampleSite/
 public/
 .hugo_build.lock
