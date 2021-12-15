@@ -1,0 +1,6 @@
+*.swp
+resources/
+deploy.sh
+themes/
+public/
+.hugo_build.lock

@@ -1,0 +1,41 @@
+[[main]]
+  identifier = "posts"
+  # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+  pre = ""
+  # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+  post = ""
+  name = "所有文章"
+  url = "/posts/"
+  title = ""
+  weight = 1
+[[main]]
+  identifier = "tags"
+  pre = ""
+  post = ""
+  name = "标签"
+  url = "/tags/"
+  title = ""
+  weight = 2
+[[main]]
+  identifier = "categories"
+  pre = ""
+  post = ""
+  name = "分类"
+  url = "/categories/"
+  title = ""
+  weight = 3
+[[main]]
+  identifier = "documentation"
+  pre = ""
+  name = "文档"
+  url = "/categories/documentation/"
+  title = ""
+  weight = 4
+[[main]]
+  identifier = "about"
+  pre = ""
+  post = ""
+  name = "关于"
+  url = "/about/"
+  title = ""
+  weight = 5

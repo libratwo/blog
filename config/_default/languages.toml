@@ -1,0 +1,27 @@
+[zh-cn]
+  title = "干了，干饭人！"
+  weight = 1
+  # 网站语言, 仅在这里 CN 大写
+  languageCode = "zh-CN"
+  # 语言名称
+  languageName = "中文"
+  # 是否包括中日韩文字
+  hasCJKLanguage = true
+  # 默认每页列表显示的文章数目
+  paginate = 12
+  # 版权描述，仅仅用于 SEO
+  copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[en]
+  title = "Just Do."
+  weight = 2
+  # language code
+  languageCode = "en"
+  # language name
+  languageName = "EN"
+  # whether to include Chinese/Japanese/Korean
+  hasCJKLanguage = false
+  # default amount of posts in each pages
+  paginate = 12
+  # copyright description used only for seo schema
+  copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
